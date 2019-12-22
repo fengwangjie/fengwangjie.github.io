@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-xi'an China
+Xi'an China
 ### More Information
 Web Developer 
 ### Contact me
